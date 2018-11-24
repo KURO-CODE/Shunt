@@ -13,15 +13,15 @@ Simple MITM ATTACK.
 + Coder: KURO-CODE
 
 #	Requirement
-
--Arpspoof
--Ettercap
--Sslstrip
--Urlsnarf
--Driftnet
--Dsniff
--Netsniff-ng
--Tcpdump
++ 
+- Arpspoof
+- Ettercap
+- Sslstrip
+- Urlsnarf
+- Driftnet
+- Dsniff
+- Netsniff-ng
+- Tcpdump
 
 # Usage
 ```bash
