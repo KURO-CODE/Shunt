@@ -12,7 +12,8 @@ Simple MITM ATTACK.
 + Date: 11/23/2018
 + Coder: KURO-CODE
 
-#	Requirement 
+#	Requirement
+- Nmap
 - Arpspoof
 - Ettercap
 - Sslstrip
