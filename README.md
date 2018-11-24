@@ -24,8 +24,8 @@ Simple MITM ATTACK.
 - Tcpdump
 
 # Usage
-'''bash
+```bash
 git clone http://github.com/KURO-CODE/Shunt.git
 cd Shunt
 bash ./Shunt.sh
-'''
+```
