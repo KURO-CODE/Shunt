@@ -12,16 +12,16 @@ Simple MITM ATTACK.
 + Date: 11/23/2018
 + Coder: KURO-CODE
 
-+	Requirement
+#	Requirement
 
-- Arpspoof
-- Ettercap
-- Sslstrip
-- Urlsnarf
-- Driftnet
-- Dsniff
-- Netsniff-ng
-- Tcpdump
+-Arpspoof
+-Ettercap
+-Sslstrip
+-Urlsnarf
+-Driftnet
+-Dsniff
+-Netsniff-ng
+-Tcpdump
 
 # Usage
 ```bash
