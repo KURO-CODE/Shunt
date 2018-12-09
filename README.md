@@ -28,5 +28,8 @@ Auto installer
 ```bash
 git clone http://github.com/KURO-CODE/Shunt.git
 cd Shunt
-bash ./Shunt.sh
+sudo bash ./Shunt.sh
+OR
+chmod +x Shunt.sh
+sudo ./Shunt.sh
 ```
