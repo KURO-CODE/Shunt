@@ -13,6 +13,7 @@ Simple MITM ATTACK.
 + Coder: KURO-CODE
 
 #	Requirement
+Auto installer
 - Nmap
 - Arpspoof
 - Ettercap
