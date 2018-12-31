@@ -31,7 +31,7 @@
 # + Tcpdump
 #
 
-#**** Skeleton version ****
+#**** Shunt version ****
 VERSION="1.0"
 
 #**** Display ****
